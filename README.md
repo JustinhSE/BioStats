@@ -1,7 +1,7 @@
 # BioStats Project
 
-- 🛈 This project allows users to manipulate data inside of a csv file and save it. 
-- 🏥This data can be useful for anyone trying to store biological information about members such as hospitals or researchers trying to store data about their patients. 
+🛈 This project allows users to manipulate data inside of a csv file and save it. 
+🏥This data can be useful for anyone trying to store biological information about members such as hospitals or researchers trying to store data about their patients. 
 
 # ⭐ Start ⭐
 
