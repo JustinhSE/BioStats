@@ -7,8 +7,8 @@
 
 Import a CSV file of records of people including their sex, age, height in inches, and weight in pounds. 
 📝 Within this CSV you are able to: 
-o Add a Person
-o Remove a Person
-o Get Info on a Person
-o Print a Table
-o Save to a new CSV File
+- Add a Person
+- Remove a Person
+- Get Info on a Person
+- Print a Table
+- Save to a new CSV File
