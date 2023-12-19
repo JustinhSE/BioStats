@@ -5,7 +5,7 @@
 
 # ⭐ Start ⭐
 
-Import a CSV file of records of people including their sex, age, height in inches, and weight in pounds. 
+Import a CSV file of records of people including their sex, age, height in inches, and weight in pounds. (or you can use the imported CSV "biostats.csv" to get started)
 
 📝 Within this CSV you are able to: 
 - Add a Person
