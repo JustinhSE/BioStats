@@ -24,7 +24,7 @@
 - **Data Visualization:** Generate clear tables for effective analysis.
 - **Data Preservation:** Save your work to new CSV files for sharing and future reference.
 
-# Ideal Use Cases
+#  💼 Ideal Use Cases
 
 - **Hospitals and Clinics:** Track patient information, health metrics, and treatment outcomes.
 - **Researchers:** Manage study data, analyze trends, and generate meaningful insights.
