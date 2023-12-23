@@ -30,6 +30,5 @@
 - **Researchers:** Manage study data, analyze trends, and generate meaningful insights.
 - **Individuals:** Track personal health data, fitness progress, or other biological information.
 
-**Get Started with BioStats Today!**
-
+# 
 - Clone this repository and start organizing, analyzing, and sharing your biological data with ease.
