@@ -1,4 +1,4 @@
-# BioStats
+# 🧪BioStats
 
 **-  Effortlessly manage biological data within CSV files!**
 
